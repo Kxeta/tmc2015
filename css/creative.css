@@ -494,10 +494,17 @@ body {
     webkit-tap-highlight-color: #222;
 }
 
+/* Rock Content Custom Responsive*/
 
 @media (max-width: 767px) {
+    header{
+        margin-bottom: 10px;
+    }
     .header-content-inner{
         display: none;
+    }
+    .header-content-mobile{
+        margin-top: 10%;
     }
     .btn-xl {
         padding: 10px 15px;
@@ -508,7 +515,7 @@ body {
         line-height: 50px;
         padding: 60px 0 20px 0;
     }
-}
+} 
 
 
 @media (min-width: 768px){

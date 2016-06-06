@@ -1,0 +1,92 @@
+﻿body {
+	font-family: 'Roboto', sans-serif;
+}
+
+header {
+	background: url(../imgs/bg.jpg) no-repeat center center;
+}
+
+.introducao {
+	padding-bottom: 100px;
+}
+
+.btn-yellow {
+	background-color: #FFD262;
+    border-bottom-color: #E4B34F;
+    border-top-color: #FFE8B2;
+    box-shadow: 1px 1px 0 0 #E4B34F,1px -1px 0 0 #E4B34F,-1px 1px 0 0 #E4B34F,-1px -1px 0 0 #E4B34F;
+    color: #994122;
+	border-radius: 3px;
+    border-width: 1px 0 2px;
+	margin-top: 40px;
+}
+
+.caps {
+	font-size: 60px;
+	text-transform: uppercase;
+}
+
+.footer {
+	background: #2A2A2A;
+	color: white;
+	padding: 75px 0;
+}
+
+#copyright {
+	color: #7F7F7F;
+	font-size: 12px;
+	line-height: 10px;
+	margin: 20px 0 0 0;
+}
+
+.well {
+	border: #2A2A2A 0 solid;
+	border-radius: 0;
+	min-height: 250px;
+}
+
+hr.espaco {
+	border: 0 solid white;
+	padding: 25px 0;
+}
+
+.distanciaFace{
+	margin: 0 4px 0 0;
+}
+
+.distanciaLinke{
+	margin: 0 4px 0 0;
+}
+
+.distanciaPlus{
+	margin: 0 4px 0 0;
+}
+
+#image{
+	width: 1000px;
+	height: 563px;
+	margin-bottom: -500px;
+}
+
+#text{
+	position: absolute;
+	margin-top: -30px;
+}
+
+.amarelo {
+	background-color: #EEAE19;
+	color: white;
+}
+
+.rosa {
+	background-color: #C64291;
+}
+
+.azul {
+	background-color: #1C1A81;
+	color: white;
+}
+
+h3 {
+	text-transform: uppercase;
+}
